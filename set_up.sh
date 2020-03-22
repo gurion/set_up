@@ -83,6 +83,7 @@ mas install '441258766'
 
 # Python packages
 echo "pip installs"
+pip install --upgrade pip
 pip install numpy
 pip install scipy
 pip install matplotlib
